@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0marish1
-- 👀 I’m interested in Front end development.
+- 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me omabuelrish@outlook.com
